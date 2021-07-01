@@ -1,8 +1,8 @@
-package com.aprilxing.jupiter.external;
+package jupiter.external;
 
-import com.aprilxing.jupiter.entity.Game;
-import com.aprilxing.jupiter.entity.Item;
-import com.aprilxing.jupiter.entity.ItemType;
+import jupiter.entity.Game;
+import jupiter.entity.Item;
+import jupiter.entity.ItemType;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.http.HttpEntity;

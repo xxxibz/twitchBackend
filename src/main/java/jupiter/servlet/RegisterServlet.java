@@ -1,8 +1,8 @@
-package com.aprilxing.jupiter.servlet;
+package jupiter.servlet;
 
-import com.aprilxing.jupiter.db.MySQLConnection;
-import com.aprilxing.jupiter.db.MySQLException;
-import com.aprilxing.jupiter.entity.User;
+import jupiter.db.MySQLConnection;
+import jupiter.db.MySQLException;
+import jupiter.entity.User;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import javax.servlet.*;

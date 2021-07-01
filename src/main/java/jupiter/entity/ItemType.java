@@ -1,4 +1,4 @@
-package com.aprilxing.jupiter.entity;
+package jupiter.entity;
 
 public enum ItemType {
     STREAM, VIDEO, CLIP

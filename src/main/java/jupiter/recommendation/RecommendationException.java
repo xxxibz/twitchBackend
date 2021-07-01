@@ -1,4 +1,4 @@
-package com.aprilxing.jupiter.recommendation;
+package jupiter.recommendation;
 
 public class RecommendationException extends RuntimeException {
     public RecommendationException(String errorMessage) {

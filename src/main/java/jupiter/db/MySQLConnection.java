@@ -1,10 +1,10 @@
-package com.aprilxing.jupiter.db;
+package jupiter.db;
 
 import java.sql.*;
 
-import com.aprilxing.jupiter.entity.Item;
-import com.aprilxing.jupiter.entity.ItemType;
-import com.aprilxing.jupiter.entity.User;
+import jupiter.entity.Item;
+import jupiter.entity.ItemType;
+import jupiter.entity.User;
 
 import java.util.*;
 

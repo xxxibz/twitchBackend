@@ -1,4 +1,4 @@
-package com.aprilxing.jupiter.servlet;
+package jupiter.servlet;
 
 import javax.servlet.*;
 import javax.servlet.http.*;

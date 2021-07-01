@@ -1,8 +1,8 @@
-package com.aprilxing.jupiter.servlet;
+package jupiter.servlet;
 
-import com.aprilxing.jupiter.entity.Item;
-import com.aprilxing.jupiter.recommendation.ItemRecommender;
-import com.aprilxing.jupiter.recommendation.RecommendationException;
+import jupiter.entity.Item;
+import jupiter.recommendation.ItemRecommender;
+import jupiter.recommendation.RecommendationException;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

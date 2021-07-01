@@ -1,16 +1,13 @@
-package com.aprilxing.jupiter.servlet;
+package jupiter.servlet;
 
-import com.aprilxing.jupiter.entity.Game;
-import com.aprilxing.jupiter.external.TwitchClient;
-import com.aprilxing.jupiter.external.TwitchException;
+import jupiter.external.TwitchClient;
+import jupiter.external.TwitchException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.json.JSONObject;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
 import java.io.IOException;
-import org.apache.commons.io.IOUtils;
 
 @WebServlet(name = "GameServlet", urlPatterns = {"/game"})
 public class GameServlet extends HttpServlet {

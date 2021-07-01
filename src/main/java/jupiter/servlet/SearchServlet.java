@@ -1,8 +1,7 @@
-package com.aprilxing.jupiter.servlet;
+package jupiter.servlet;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.aprilxing.jupiter.external.TwitchClient;
-import com.aprilxing.jupiter.external.TwitchException;
+import jupiter.external.TwitchClient;
+import jupiter.external.TwitchException;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

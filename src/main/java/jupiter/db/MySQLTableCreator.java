@@ -1,4 +1,4 @@
-package com.aprilxing.jupiter.db;
+package jupiter.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

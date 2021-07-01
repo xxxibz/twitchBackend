@@ -1,4 +1,4 @@
-package com.aprilxing.jupiter.external;
+package jupiter.external;
 
 public class TwitchException extends RuntimeException {
     public TwitchException(String errorMessage) {

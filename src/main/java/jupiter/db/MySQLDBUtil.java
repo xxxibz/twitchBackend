@@ -1,4 +1,4 @@
-package com.aprilxing.jupiter.db;
+package jupiter.db;
 
 import java.io.IOException;
 import java.io.InputStream;

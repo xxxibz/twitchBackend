@@ -1,12 +1,12 @@
-package com.aprilxing.jupiter.recommendation;
+package jupiter.recommendation;
 
-import com.aprilxing.jupiter.db.MySQLConnection;
-import com.aprilxing.jupiter.db.MySQLException;
-import com.aprilxing.jupiter.entity.Game;
-import com.aprilxing.jupiter.entity.Item;
-import com.aprilxing.jupiter.entity.ItemType;
-import com.aprilxing.jupiter.external.TwitchClient;
-import com.aprilxing.jupiter.external.TwitchException;
+import jupiter.db.MySQLConnection;
+import jupiter.db.MySQLException;
+import jupiter.entity.Game;
+import jupiter.entity.Item;
+import jupiter.entity.ItemType;
+import jupiter.external.TwitchClient;
+import jupiter.external.TwitchException;
 
 import java.util.*;
 import java.util.function.Function;
